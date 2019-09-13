@@ -3,7 +3,7 @@
   "author": "Adobe Systems",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
+    "@babel/cli": "^7.6.0",
     "@babel/core": "^7.4.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
     "@babel/plugin-transform-runtime": "^7.4.4",
