@@ -25,7 +25,7 @@
     "airglow": "^0.5.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.4.4"
+    "@babel/cli": "^7.6.3"
   },
   "scripts": {
     "prebuild": "rm -rf dist && mkdir dist",
